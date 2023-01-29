@@ -1472,7 +1472,10 @@ a:focus {
 @media (max-width: 575.98px) {
   .contact .contact-form {
     max-width: 300px;
+  }
+  body {
     overflow-x: hidden;
+    /* width: 100%; */
   }
 }
 
